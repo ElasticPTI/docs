@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to ElasticPT&I Homepage
+
+<img src="https://uicai.ml/EPTI-logo.png" alt="Logo" style="width: 200px;">
 
 You can use the [editor on GitHub](https://github.com/ElasticPTI/ElasticPTI.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
