@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkepti_doc=self.webpackChunkepti_doc||[]).push([[450],{2294:e=>{e.exports=JSON.parse('{"title":"\u603b\u89c8","slug":"/category/\u603b\u89c8","permalink":"/docs/category/\u603b\u89c8","navigation":{"previous":{"title":"\u5feb\u901f\u5165\u95e8","permalink":"/docs/intro"},"next":{"title":"\u7b80\u4ecb","permalink":"/docs/\u603b\u89c8/intro"}}}')}}]);
